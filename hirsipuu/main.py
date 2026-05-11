@@ -1,11 +1,11 @@
-from sanat import Sanakirjasto
-from peli import HirsipuuPeli
+from sanat import Sanat
+from peli import Hirsipuu
 from tallennus import Tallennus
 
-sanat = Sanakirjasto("sanat.txt")
+sanat = Sanat("sanat.txt")
 sana = sanat.hae_satunnainen_sana()
 
-peli = HirsipuuPeli(sana)
+peli = Hirsipuu(sana)
 
 tilastot = Tallennus("tilastot.txt")
 
