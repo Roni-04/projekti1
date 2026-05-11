@@ -1,0 +1,5 @@
+python
+tietokone
+mopo
+hevonen
+talo
