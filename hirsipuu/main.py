@@ -1,6 +1,6 @@
-from hirsipuu.sanat import Sanakirjasto
-from hirsipuu.peli import HirsipuuPeli
-from hirsipuu.tallennus import Tallennus
+from sanat import Sanakirjasto
+from peli import HirsipuuPeli
+from tallennus import Tallennus
 
 sanat = Sanakirjasto("sanat.txt")
 sana = sanat.hae_satunnainen_sana()
