@@ -1,4 +1,4 @@
-class HirsipuuPeli:
+class Hirsipuu:
 
     def __init__(self, sana):
         self.sana = sana
