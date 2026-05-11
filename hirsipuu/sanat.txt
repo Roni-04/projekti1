@@ -3,3 +3,8 @@ tietokone
 mopo
 hevonen
 talo
+koira
+kissa
+kenkä
+kerrostalo
+uimahalli
