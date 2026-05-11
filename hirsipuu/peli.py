@@ -3,7 +3,7 @@ class HirsipuuPeli:
     def __init__(self, sana):
         self.sana = sana
         self.arvattu = ["_"] * len(sana)
-        self.yritykset = 6
+        self.yritykset = 15
         self.arvatut = []
 
     def arvaa(self, kirjain):
