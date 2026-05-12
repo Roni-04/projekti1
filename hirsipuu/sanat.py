@@ -1,6 +1,6 @@
 import random
 
-class Sanakirjasto:
+class Sanat:
 
     def __init__(self, tiedosto):
         self.tiedosto = tiedosto
